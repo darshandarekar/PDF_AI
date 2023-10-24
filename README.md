@@ -31,3 +31,23 @@ To use PDF_AI, follow these installation instructions:
 
    ```shell
    git clone https://github.com/yourusername/PDF_AI.git
+
+2. Navigate to the project directory.
+
+   ```shell
+   cd PDF_AI
+
+3. Create a virtual environment (recommended) to isolate project dependencies.
+
+   ```shell
+   python -m venv venv
+4. Activate the virtual environment.
+*On Windows*
+   ```shell
+   .\venv\Scripts\Activate
+
+*On macOS and Linux:*
+   ```shell
+   source venv/bin/activate
+
+
