@@ -42,6 +42,7 @@ To use PDF_AI, follow these installation instructions:
    ```shell
    python -m venv venv
 4. Activate the virtual environment.
+   
 *On Windows*
    ```shell
    .\venv\Scripts\Activate
@@ -49,8 +50,3 @@ To use PDF_AI, follow these installation instructions:
 *On macOS and Linux:*
    ```bash
    source venv/bin/activate
-
-
-
-
-
