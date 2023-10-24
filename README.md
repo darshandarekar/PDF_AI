@@ -47,7 +47,10 @@ To use PDF_AI, follow these installation instructions:
    .\venv\Scripts\Activate
 
 *On macOS and Linux:*
-   ```shell
+   ```bash
    source venv/bin/activate
+
+
+
 
 
